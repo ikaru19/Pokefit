@@ -1,0 +1,59 @@
+{
+  "pokemons":[
+      {
+        "id":1,
+        "name":"Bulbasaur",
+        "type":"Grass",
+        "picture":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "seed":"For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+        "hp":45,
+        "attack":49,
+        "defense":49,
+        "speed":45,
+        "speedattack":65,
+        "speeddef":65,
+        "height":0.7,
+        "catchRate":0,
+        "abilities":"Chlorophyll, Overgrow",
+        "weight":6.9,
+        "genderRatioMale":87.5,
+        "genderRatioFemale":12.5,
+        "hatchsteps":5100,
+        "evolution":"Ivysaur"
+      },
+      {
+        "id":2,
+        "name":"Ivysaur",
+        "type":"Grass",
+        "picture":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "seed":"When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom.",
+        "hp":45,
+        "attack":49,
+        "defense":49,
+        "speed":45,
+        "speedattack":65,
+        "speeddef":65,
+        "height":0.7,
+        "catchRate":0,
+        "abilities":"Chlorophyll, Overgrow",
+        "weight":13,
+        "genderRatioMale":87.5,
+        "genderRatioFemale":12.5,
+        "hatchsteps":5100,
+        "evolution":"Ivysaur"
+      }
+  ],
+   "items":[
+      {
+        "id":1,
+        "name":"Beast Ball",
+        "picture":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "description":"Grass"
+       },{
+         "id":2,
+        "name":"Beast Ball",
+        "picture":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "description":"Grass"
+       }
+  ]
+}
